@@ -18,3 +18,10 @@
 - [ACA2](https://github.com/HonglinZheng/HUDK4050/blob/main/ACA2.ipynb):  Build a classifier that can predict on or off-task behavior
 - [ACA3](https://github.com/HonglinZheng/HUDK4050/blob/main/ACA3.ipynb):  Opportunity Project Problem
 - [ACA4](https://github.com/HonglinZheng/HUDK4050/blob/main/ACA4.ipynb):  Networking Analysis
+
+### Final Project
+- [essay](https://github.com/HonglinZheng/HUDK4050/blob/main/4050%20-%20Final%20Paper.pdf)
+- [slides](https://github.com/HonglinZheng/HUDK4050/blob/main/presentation%20slides.pdf)
+
+### Reflection Essay
+- [essay](https://github.com/HonglinZheng/HUDK4050/blob/main/Reflection%20Essay.pdf)
